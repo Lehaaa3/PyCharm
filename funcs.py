@@ -1,7 +1,7 @@
-def plus(a,b)
+def plus(a,b):
     c = a + b
     return c
 
-def subtraction(a,b)
+def subtraction(a,b):
     d = a - b
     return d
